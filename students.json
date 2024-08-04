@@ -1,0 +1,146 @@
+{
+  "students": [
+    {
+      "name": "Abhinav Pratap Singh",
+      "qualification": "B.Tech. (Textile Technology)",
+      "institute": "Uttar Pradesh Textile Technology Institute (UPTTI), Kanpur",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Supply Chain Management", "Finance", "Operation Research"],
+      "thesis_guide": "Dr. Subhas Chandra Misra"
+    },
+    {
+      "name": "Aditya Kumar Singh",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Aligarh Muslim University (AMU), Aligarh",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Supply Chain Management", "Operation Research", "Finance"],
+      "thesis_guide": "Dr. Subhas Chandra Misra"
+    },
+    {
+      "name": "Aman Ingle",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Institute of Engineering and Technology, DAVV Indore",
+      "areas_of_interest": ["Data Science", "Machine Learning"],
+      "thesis_guide": "Dr. Anoop Singh"
+    },
+    {
+      "name": "Amarjit Kumar",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Gaya College of Engineering, Gaya (Aryabhatta Knowledge University Patna)",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Product Management", "Operations", "Finance", "Machine Learning"],
+      "thesis_guide": "Dr. Abhinava Tripathi"
+    },
+    {
+      "name": "Divyeshkumar Ranchhodbhai Parmar",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Faculty of Technology and Engineering, MSU, Baroda",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Product Management", "Operations", "Machine Learning"],
+      "thesis_guide": "Dr. Sri Vanamalla V"
+    },
+    {
+      "name": "Gaurav Soni",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Institute of Infrastructure Technology Research And Management (IITRAM), Ahmedabad",
+      "areas_of_interest": ["Data Analytics", "Finance", "Operation", "Machine Learning"],
+      "thesis_guide": "Dr. Harshal Rajan Mulay"
+    },
+    {
+      "name": "Govind Relia",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Operations", "Finance", "Data Science"],
+      "thesis_guide": "Dr. Sri Vanamalla V"
+    },
+    {
+      "name": "Harsh",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Malaviya National Institute of Technology (MNIT), Jaipur",
+      "areas_of_interest": ["Data Analytics", "Data Science", "Supply Chain Management", "Product Management", "Machine Learning"],
+      "thesis_guide": "Dr. Shankar Prawesh"
+    },
+    {
+      "name": "Neelima Dixit",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Feroze Gandhi Institute of Engineering and Technology (FGIET), Raebareli",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Operations", "Finance", "Machine Learning"],
+      "thesis_guide": "Dr. Prerna Gautam"
+    },
+    {
+      "name": "Rahul Singh",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+      "areas_of_interest": ["Data Analytics", "Finance", "Machine Learning", "Data Science", "Supply Chain Management"],
+      "thesis_guide": "Dr. Amit Shukla"
+    },
+    {
+      "name": "Rohit",
+      "qualification": "B.Tech (Agricultural Engineering)",
+      "institute": "College of Agricultural Engineering and Technology (CCS HAU), Hisar",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Machine Learning"],
+      "thesis_guide": "Dr. Raghu Nandan Sengupta"
+    },
+    {
+      "name": "Samyak Srivatsa",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Motilal Nehru National Institute of Technology (MNNIT), Prayagraj",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Product Management", "Operations", "Finance", "Machine Learning"],
+      "thesis_guide": "Dr. Devlina Chatterjee"
+    },
+    {
+      "name": "Sangam Anant Jadhav",
+      "qualification": "B.E. (Civil Engineering)",
+      "institute": "M. H. Saboo Siddik College of Engineering, Mumbai",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Machine Learning", "Operations", "Supply Chain Management", "Finance"],
+      "thesis_guide": "Dr. Parvati Neelakantan"
+    },
+    {
+      "name": "Siddhant Ramesh Lakkam",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "KJ Somaiya College of Engineering, Mumbai",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Operations", "Finance", "Machine Learning"],
+      "thesis_guide": "Dr. Devlina Chatterjee"
+    },
+    {
+      "name": "Suraj Chaudhary",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Institute of Engineering and Technology, Lucknow",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Finance", "Machine Learning"],
+      "thesis_guide": "Dr. Veena Bansal"
+    },
+    {
+      "name": "Yash Mishra",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Vellore Institute of Technology (VIT), Vellore",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Supply Chain Management", "Operation Research"],
+      "thesis_guide": "Dr. Faiz Hamid"
+    },
+    {
+      "name": "Anshul Goyal",
+      "qualification": "B.Tech (Electrical Engineering)",
+      "institute": "Nirma University, Ahmedabad",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Product Management", "Operations", "Finance"],
+      "thesis_guide": "Dr. Suvendu Naskar"
+    },
+    {
+      "name": "Vivek Radadiya",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Nirma University, Ahmedabad",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Supply Chain Management"],
+      "thesis_guide": "Dr. Faiz Hamid"
+    },
+    {
+      "name": "Shibani Thakur",
+      "qualification": "B.E. (Mechanical Engineering)",
+      "institute": "Institute of Engineering, Pulchowk Campus, Nepal",
+      "areas_of_interest": ["Data Science", "Data Analytics", "Supply Chain Management"],
+      "thesis_guide": "Dr. Vinay Ramani"
+    },
+    {
+      "name": "Rahul Verma",
+      "qualification": "B.Tech (Mechanical Engineering)",
+      "institute": "Lovely Professional University",
+      "areas_of_interest": ["Data Analytics", "Supply Chain Management", "Product Management"],
+      "thesis_guide": "Dr. Parvati Neelakantan"
+    }
+  ]
+}
+
+

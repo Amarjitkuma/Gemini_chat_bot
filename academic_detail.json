@@ -1,0 +1,15 @@
+{
+  "academic_overview": {
+    "program_name": "M.Tech Programme",
+    "department": "Department of Management Sciences (DoMS), IIT Kanpur",
+    "introduction": "Technological advances brought significant changes to organizations and industries across the globe, creating an ever-increasing demand for professionals with analytical and managerial skills combined with sound technical knowledge. Foreseeing this need, DoMS of IIT Kanpur designed its M.Tech Programme to gain and hone necessary managerial skills for engineers.",
+    "admission_process": "A high score in the GATE examination is the first step towards securing admission in the program. The high scorers then appear in the Department's own tests on comprehension and quantitative skills followed by a personal interview. Passing through a selection process that guarantees the best of the available talents, the students are challenged with an equally tough academic program that focuses on both learning and implementation.",
+    "program_details": {
+      "flagship_program": "The M.Tech program is the flagship program of DoMS and is one of the oldest to introduce industrial engineering in India.",
+      "structure": "The program provides a perfect blend of industrial engineering and management science to its students. The well-defined structure of course work and a yearlong thesis work provides in-depth knowledge of concepts to students. The intervening summer internships are used for practical project work in industries.",
+      "focus_areas": "The program focuses on developing expertise in management engineering, covering diverse topics from both management and engineering paradigms. Key areas include quantitative modeling methods, productivity improvement, quality and profitability in the manufacturing sector, supply chain management, and the application of optimization techniques in finance, marketing, and IT."
+    },
+    "teaching_approach": "DoMS emphasizes on the 'methods' of understanding any systems. Rather than 'spoon-feeding', students are taught basic concepts and their analytical skills are then sharpened through a series of rigorous exercises. This approach helps to build strong reasoning and analytical abilities and best prepares them to take on real-world challenges.",
+    "resources_and_tools": "In addition, the department is equipped with the latest tools and systems used in the industries for the students to obtain hands-on experience. The department has advanced software for product life cycle management, simulation, statistical analysis, financial modeling, process design and control, etc., in well-equipped laboratories. This provides students with vital skills for success in both industry and academia."
+  }
+}

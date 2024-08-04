@@ -1,0 +1,414 @@
+{
+  "faculty": [
+    {
+      "name": "Abhinava Tripathi",
+      "qualification": "PhD (IIM Lucknow)",
+      "research_interests": [
+        "Financial Markets",
+        "Market Microstructure",
+        "Liquidity",
+        "Market Efficiency",
+        "Banking",
+        "Corporate Banking",
+        "Credit Risk Management in Banking",
+        "Project Finance",
+        "Investment Management",
+        "Derivatives",
+        "Security Analysis and Portfolio Management",
+        "Corporate Finance",
+        "Financial Management",
+        "Corporate Valuation and Restructuring",
+        "R Programming: Quantitative Applications in Finance with R",
+        "Accounting",
+        "Financial Accounting",
+        "Management Accounting"
+      ],
+      "contact": {
+        "email": "abhinavat@iitk.ac.in",
+        "telephone": "+91-512-259-2339 (O)"
+      }
+    },
+    {
+      "name": "Amit Shukla",
+      "qualification": "Fellow in Management (IIM Lucknow)",
+      "research_interests": [
+        "Emerging Employment Relationship",
+        "Citizenship Behaviour",
+        "Psychological Ownership",
+        "Positive OB",
+        "Academic Excellence",
+        "Staffing",
+        "Talent and Performance Management"
+      ],
+      "contact": {
+        "email": "skamit@iitk.ac.in",
+        "telephone": "+91-512-259-6876 (O)"
+      }
+    },
+    {
+      "name": "Anoop Singh",
+      "qualification": "Fellow in Management (IGIDR Mumbai)",
+      "research_interests": [
+        "Infrastructure and Regulatory Issues",
+        "Energy and Environment",
+        "Microeconomics"
+      ],
+      "contact": {
+        "email": "anoops@iitk.ac.in",
+        "telephone": "+91-512-259-7679 (O)"
+      }
+    },
+    {
+      "name": "Avijit Khanra",
+      "qualification": "Fellow in Management (IIM Ahmedabad)",
+      "research_interests": [
+        "Scheduling",
+        "Stochastic Systems",
+        "Inventory and Supply Chain Management"
+      ],
+      "contact": {
+        "email": "kavijit@iitk.ac.in",
+        "telephone": "+91-512-259-6180 (O)"
+      }
+    },
+    {
+      "name": "B. V. Phani",
+      "qualification": "Fellow in Management (IIM Calcutta)",
+      "research_interests": [
+        "Financial Management",
+        "Valuation & Real Options",
+        "Corporate Governance",
+        "Entrepreneurial Finance",
+        "Financial Intermediaries & Financial Markets"
+      ],
+      "contact": {
+        "email": "bvphani@iitk.ac.in",
+        "telephone": "+91-512-259-6606/6646 (O)"
+      }
+    },
+    {
+      "name": "Deepu Philip",
+      "qualification": "PhD (MSU Bozeman)",
+      "research_interests": [
+        "Decision Support Systems",
+        "Robust Planning & Scheduling with Local Searches",
+        "Systems Simulation",
+        "Smart Systems",
+        "AI-based Searches",
+        "Experimental Design",
+        "Entrepreneurial Decisions",
+        "ITS"
+      ],
+      "contact": {
+        "email": "dphilip@iitk.ac.in",
+        "telephone": "+91-512-259-7460 (O)"
+      }
+    },
+    {
+      "name": "Devlina Chatterjee",
+      "qualification": "PhD (IISc. Bangalore)",
+      "research_interests": [
+        "Managerial Economics",
+        "Applied Econometrics",
+        "Rural Economics",
+        "Empirical Finance"
+      ],
+      "contact": {
+        "email": "devlina@iitk.ac.in",
+        "telephone": "+91-512-259-6960 (O)"
+      }
+    },
+    {
+      "name": "Faiz Hamid",
+      "qualification": "Fellow in Management (IIM Lucknow)",
+      "research_interests": [
+        "Operations Research",
+        "Combinatorial Optimization",
+        "Network Optimization",
+        "Data Science"
+      ],
+      "contact": {
+        "email": "fhamid@iitk.ac.in",
+        "telephone": "+91-512-259-6431 (O)"
+      }
+    },
+    {
+      "name": "Harshal Rajan Mulay",
+      "qualification": "PhD (IIM Calcutta)",
+      "research_interests": [
+        "Law and Finance",
+        "Culture and Finance",
+        "Creditor Rights",
+        "Banking",
+        "Corporate Finance"
+      ],
+      "contact": {
+        "email": "hrmulay@iitk.ac.in",
+        "telephone": "+91-512-259-6708 (O)"
+      }
+    },
+    {
+      "name": "Jitender Kumar",
+      "qualification": "PhD (IIT Roorkee)",
+      "research_interests": [
+        "Brand Management",
+        "Consumer Psychology",
+        "Brand Communities"
+      ],
+      "contact": {
+        "email": "krjiten@iitk.ac.in",
+        "telephone": "+91-512-259-2161 (O)"
+      }
+    },
+    {
+      "name": "Jothsna Rajan",
+      "qualification": "PhD (IIM Bangalore)",
+      "research_interests": [
+        "Partnerships",
+        "Public Administration",
+        "Policy Evaluation"
+      ],
+      "contact": {
+        "email": "jothsna@iitk.ac.in",
+        "telephone": "+91-512-259-2234 (O)"
+      }
+    },
+    {
+      "name": "Mousami Prasad",
+      "qualification": "PhD (IIT Bombay)",
+      "research_interests": [
+        "Energy and Climate Change Economics",
+        "Energy Transition",
+        "Energy Policy",
+        "Industrial Decarbonisation (Green Steel; Green Hydrogen)"
+      ],
+      "contact": {
+        "email": "mousami@iitk.ac.in",
+        "telephone": "+91-512-259-2266 (O)"
+      }
+    },
+    {
+      "name": "Nivedita Bhaktha",
+      "qualification": "PhD (The Ohio State University)",
+      "research_interests": [
+        "Psychometrics",
+        "Data Quality Assessment",
+        "Multivariate Analysis",
+        "Latent Variable Modeling",
+        "Categorical Data Analysis",
+        "Simulation Studies",
+        "Data Visualization",
+        "Survey Research",
+        "Research Methods"
+      ],
+      "contact": {
+        "email": "nbhaktha@iitk.ac.in",
+        "telephone": "+91-512-259-2459 (O)"
+      }
+    },
+    {
+      "name": "Prerna Gautam",
+      "qualification": "PhD (University of Delhi)",
+      "research_interests": [
+        "Operational Research",
+        "Optimization",
+        "Sustainability",
+        "Waste Management",
+        "Service Operations Management"
+      ],
+      "contact": {
+        "email": "gprerna@iitk.ac.in",
+        "telephone": "+91-512-259-2265 (O)"
+      }
+    },
+    {
+      "name": "Parvati Neelakantan",
+      "qualification": "PhD (University College Dublin)",
+      "research_interests": [
+        "Financial Data Science",
+        "Sustainable Finance"
+      ],
+      "contact": {
+        "email": "parvati@iitk.ac.in",
+        "telephone": "+91-512-259-2418 (O)"
+      }
+    },
+    {
+      "name": "Raghu Nandan Sengupta",
+      "qualification": "Fellow in Management (IIM Calcutta)",
+      "research_interests": [
+        "Statistical Inference Problems",
+        "Data Envelopment Analysis (DEA)",
+        "Multicriteria Decision Making",
+        "Network Flows",
+        "Econometrics Methods in Finance"
+      ],
+      "contact": {
+        "email": "raghus@iitk.ac.in",
+        "telephone": "+91-512-259-6607 (O)"
+      }
+    },
+    {
+      "name": "Rahul Varman",
+      "qualification": "Fellow in Management (IIM Ahmedabad)",
+      "research_interests": [
+        "The Political Economy of Corporations",
+        "Globalisation and Working Classes",
+        "Governance of Global Value Chains"
+      ],
+      "contact": {
+        "email": "rahulv@iitk.ac.in",
+        "telephone": "+91-512-259-7970 (O)"
+      }
+    },
+    {
+      "name": "Shankar Prawesh",
+      "qualification": "PhD (University of South Florida)",
+      "research_interests": [
+        "Big Data",
+        "Recommender Systems",
+        "Social Media",
+        "Agent Based Simulation"
+      ],
+      "contact": {
+        "email": "sprawesh@iitk.ac.in",
+        "telephone": "+91-512-259-6182 (O)"
+      }
+    },
+    {
+      "name": "Sourav Majumdar",
+      "qualification": "PhD (IIM Ahmedabad)",
+      "research_interests": [
+        "Circular Statistics",
+        "Quantitative Finance",
+        "Topological Data Analysis"
+      ],
+      "contact": {
+        "email": "souravm@iitk.ac.in",
+        "telephone": "+91-512-259-2460 (O)"
+      }
+    },
+    {
+      "name": "Sri Vanamalla V",
+      "qualification": "PhD (IISc. Bangalore)",
+      "research_interests": [
+        "Applied Operations Research",
+        "Optimization",
+        "Game Theory"
+      ],
+      "contact": {
+        "email": "vanamala@iitk.ac.in",
+        "telephone": "+91-512-259-6608 (O)"
+      }
+    },
+    {
+      "name": "Subhankar Mukherjee",
+      "qualification": "PhD (IIM Calcutta)",
+      "research_interests": [
+        "Development Economics",
+        "Applied Microeconomics"
+      ],
+      "contact": {
+        "email": "subhankar@iitk.ac.in",
+        "telephone": "+91-512-679-2048 (O)"
+      }
+    },
+    {
+      "name": "Subhas Chandra Misra",
+      "qualification": "PhD (Carleton University)",
+      "research_interests": [
+        "Business Process Management",
+        "Enterprise Resource Planning (ERP)",
+        "ERP and Supply Chain Management",
+        "Business Analytics/Data Analysis",
+        "E-Governance",
+        "Project Management"
+      ],
+      "contact": {
+        "email": "subhasm@iitk.ac.in",
+        "telephone": "+91-512-259-7430 (O)"
+      }
+    },
+    {
+      "name": "Suman Saurabh",
+      "qualification": "PhD (IIM Ahmedabad)",
+      "research_interests": [
+        "Corporate Finance",
+        "Payout Policy",
+        "Investments",
+        "Derivative Pricing"
+      ],
+      "contact": {
+        "email": "sumans@iitk.ac.in",
+        "telephone": "+91-512-259-2015 (O)"
+      }
+    },
+    {
+      "name": "Suvendu Naskar",
+      "qualification": "PhD (IIM Calcutta)",
+      "research_interests": [
+        "Information Technology",
+        "Emerging Technologies",
+        "Supply Chain Management",
+        "SC Finance",
+        "Social and Organisational Impact of IT"
+      ],
+      "contact": {
+        "email": "snaskar@iitk.ac.in",
+        "telephone": "+91-512-259-2370 (O)"
+      }
+    },
+    {
+      "name": "V Giridhar",
+      "qualification": "PhD (IIM Shillong)",
+      "research_interests": [
+        "Subaltern Consumer Culture",
+        "Consumer Behaviour",
+        "Retail Management"
+      ],
+      "contact": {
+        "email": "giridhar@iitk.ac.in",
+        "telephone": "+91-512-679-2267 (O)"
+      }
+    },
+    {
+      "name": "Veena Bansal",
+      "qualification": "PhD (IIT Kanpur)",
+      "research_interests": [
+        "Data Science",
+        "Software Project Management",
+        "ERP"
+      ],
+      "contact": {
+        "email": "veena@iitk.ac.in",
+        "telephone": "+91-512-259-7743 (O)"
+      }
+    },
+    {
+      "name": "Vinay Ramani",
+      "qualification": "PhD (University at Buffalo)",
+      "research_interests": [
+        "Economics-Operations Management Interface",
+        "Industrial Organization",
+        "Pricing Strategy"
+      ],
+      "contact": {
+        "email": "vramani@iitk.ac.in",
+        "telephone": "+91-512-259-2289 (O)"
+      }
+    },
+    {
+      "name": "Vipin B",
+      "qualification": "PhD (IIT Madras)",
+      "research_interests": [
+        "Decision Theory",
+        "Inventory Theory",
+        "Supply Chain Management"
+      ],
+      "contact": {
+        "email": "vipin@iitk.ac.in",
+        "telephone": "+91-512-259-2005 (O)"
+      }
+    }
+  ]
+}

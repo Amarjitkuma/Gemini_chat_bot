@@ -1,0 +1,179 @@
+{
+    "department": "Department of Management Sciences (DoMS), IIT Kanpur",
+    "program": "M.Tech. in Management Sciences",
+    "batch": "2021-23",
+    "about_us": {
+      "founded": 1974,
+      "overview": "The Department of Management Sciences (DoMS, formerly IME) at IIT Kanpur is a pioneer in integrating engineering training with management education. The curriculum emphasizes Data Science, Analytics, and Operations, with a blend of engineering and management subjects.",
+      "focus": [
+        "Data Science",
+        "Analytics",
+        "Operations"
+      ],
+      "curriculum_topics": [
+        "Statistical Modelling",
+        "Supply Chain Management",
+        "Optimization Techniques",
+        "Business Intelligence Tools",
+        "Economics",
+        "Finance",
+        "Marketing",
+        "IT"
+      ],
+      "message_from_HoD": "Greetings from the Department of Management Sciences at IIT Kanpur! Since 1974, we've been a driving force in Data and Analytics, Management Sciences, Operations Research, and more. Our holistic Ph.D., M.Tech, and MBA programs foster complete techno-managers equipped to excel in complex business environments. Our alumni hold esteemed positions in IITs, IIMs, and companies like Amazon and McKinsey. With an updated curriculum and industry engagement, we're dedicated to upholding IIT Kanpur's legacy of excellence. - Dr. B. V. Phani, Head, Department of Management Sciences (DoMS)"
+    },
+    "curriculum": {
+      "academic_courses": [
+        "Probability And Statistics",
+        "Applied Machine Learning",
+        "Statistical Modeling For Business Analytics",
+        "Time Series Modelling For Business Analytics",
+        "Causal Inference for Business Analytics",
+        "Advanced Statistical Methods For Business Analytics",
+        "Data Mining And Knowledge Discovery",
+        "Big Data For Management",
+        "Marketing Research",
+        "Introduction To Stochastic Processes",
+        "Economic Analysis For Management",
+        "Introduction To Game Theory Computing",
+        "Introduction To Computing",
+        "Computer-Aided Decision Support Systems"
+      ],
+      "operations_courses": [
+        "Operations Research",
+        "Operations Management",
+        "Advanced Decision Models",
+        "Supply Chain Management",
+        "Design Of Production Systems",
+        "Total Quality Management",
+        "Project Management",
+        "Management Decision Analysis",
+        "Analytics in Transport and Telecom"
+      ],
+      "other_courses": [
+        "Financial Engineering",
+        "Financial Modelling",
+        "Simulation And Optimization",
+        "Human Resources Management",
+        "Business Process Management",
+        "Business Management Using Cloud",
+        "Software Project Management"
+      ]
+    },
+    "internships_and_thesis": {
+      "internships": "Compulsory summer internship at the end of the first year, typically in Data Science, Business Analytics, Marketing, Supply Chain, Finance, and Operations.",
+      "thesis": "One year-long thesis work providing in-depth knowledge in areas such as Market Basket Analysis, NLP, Big Data Analytics, Financial Analytics, Optimization, ERP, Heuristic Development, Simulation of Business Systems, and SCM."
+    },
+    "placement_statistics": {
+      "class_of_2022": {
+        "students_registered": 18,
+        "students_placed": "100%",
+        "highest_ctc": "21.5 LPA",
+        "top_30_percent_ctc": "16.17 LPA",
+        "median_ctc": "12.5 LPA",
+        "average_ctc": "13.2 LPA"
+      },
+      "class_of_2023": {
+        "students_registered": 18,
+        "students_placed": "100%",
+        "highest_ctc": "27 LPA",
+        "top_30_percent_ctc": "23 LPA",
+        "median_ctc": "15.38 LPA",
+        "average_ctc": "16.9 LPA"
+      },
+      "ctc_increments": {
+        "highest_ctc_increment": "26%",
+        "average_ctc_increment": "42%",
+        "top_30_percent_ctc_increment": "28%"
+      }
+    },
+    "profiles_offered": [
+      "Data Analyst",
+      "Data Scientist",
+      "Business Analyst",
+      "Lead Data Scientist",
+      "GAC Analyst"
+    ],
+    "past_recruiters": [
+      {
+        "company": "Axtria",
+        "roles": ["Data Analyst"]
+      },
+      {
+        "company": "Barclays",
+        "roles": ["Business Analyst"]
+      },
+      {
+        "company": "Citibank",
+        "roles": ["Business Analyst"]
+      },
+      {
+        "company": "Accenture",
+        "roles": ["Data Scientist"]
+      },
+      {
+        "company": "Mphasis",
+        "roles": ["Lead Data Scientist"]
+      },
+      {
+        "company": "Trident Group",
+        "roles": ["Data Scientist"]
+      },
+      {
+        "company": "HSBC",
+        "roles": ["GAC Analyst"]
+      },
+      {
+        "company": "Statkraft",
+        "roles": ["Data Scientist"]
+      },
+      {
+        "company": "Apporchid",
+        "roles": ["Data Scientist"]
+      },
+      {
+        "company": "Transorg Analytics",
+        "roles": ["Data Analyst"]
+      }
+    ],
+    "contact_information": {
+      "faculty_coordinator": {
+        "name": "Dr. Suvendu Naskar",
+        "email": "snaskar@iitk.ac.in",
+        "phone": "+91 512-259-2370"
+      },
+      "senior_placement_coordinators": [
+        {
+          "name": "Hemant Kumar",
+          "email": "hemantkr22@iitk.ac.in",
+          "phone": "+91 8510033994"
+        },
+        {
+          "name": "Chinmay Tewari",
+          "email": "chinmayt22@iitk.ac.in",
+          "phone": "+91 8954454313"
+        }
+      ],
+      "department_placement_coordinator": {
+        "name": "Shankar Pal",
+        "email": "shankarpal22@iitk.ac.in",
+        "phone": "+91 95883376074"
+      },
+      "other_contacts": [
+        {
+          "name": "Pratik Shaha",
+          "email": "pratik22@iitk.ac.in",
+          "phone": "+91 8983894373"
+        },
+        {
+          "name": "Prathamesh Pawar",
+          "email": "pppawar22@iitk.ac.in",
+          "phone": "+91 8483086904"
+        }
+      ],
+      "website": "https://www.iitk.ac.in/ime",
+      "linkedin": "https://www.linkedin.com/in/mtimeiitk",
+      "email": "mtechime@iitk.ac.in"
+    }
+  }
+  

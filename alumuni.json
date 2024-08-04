@@ -1,0 +1,123 @@
+{
+  "alumni_association": {
+    "overview": "Our department has an active alumni association. The student members are invited to attend the alumni meet held every year and will also receive privileges for participating in events, social activities, seminars, etc. The Institute's activities and programs for its alumni are directed towards building lifelong bonds of association with the Institute.",
+    "engagement": "DoMS is proud of its alumni. The Institute welcomes its alumni to continue an endearing relationship with its alma mater. The department works closely with the Alumni Association to involve alumni through various activities towards excellence at DoMS. DoMS alumni association has a number of chapters around the globe to keep in touch with its alumni.",
+    "alumuni": [
+      {
+        "name": "Abir Mukherjee",
+        "position": "Vice-President",
+        "organization": "CitiGroup",
+        "country": "INDIA"
+      },
+      {
+        "name": "Ajay Pal Singh",
+        "position": "Vice President",
+        "organization": "Nomura Securities",
+        "country": "INDIA"
+      },
+      {
+        "name": "Gagandeep Malhotra",
+        "position": "Assistant Vice President",
+        "organization": "CITI Bank",
+        "country": "INDIA"
+      },
+      {
+        "name": "Khem Aithani",
+        "position": "ITC Infotech",
+        "country": "INDIA"
+      },
+      {
+        "name": "Kunal Tijoriwala",
+        "position": "Vice President",
+        "organization": "CITI Bank",
+        "country": "INDIA"
+      },
+      {
+        "name": "Manish Gupta",
+        "position": "Director",
+        "organization": "Microsoft"
+      },
+      {
+        "name": "Mukul Srivastava",
+        "position": "General Manager",
+        "organization": "Crompton Greaves",
+        "country": "INDIA"
+      },
+      {
+        "name": "Narasimha Bolloju",
+        "position": "Associate Professor, Information Systems",
+        "organization": "City University of Hong Kong",
+        "country": "CHINA"
+      },
+      {
+        "name": "Nimruji Prasad Jammulamadaka",
+        "position": "Assistant Professor, Behavioral Sciences",
+        "organization": "IIM Calcutta",
+        "country": "INDIA"
+      },
+      {
+        "name": "Rajesh Kumar Sharma",
+        "position": "Director",
+        "organization": "Nortel Networks"
+      },
+      {
+        "name": "Ravindra K. Ahuja",
+        "position": "Professor, Industrial and Systems Engineering Dept.",
+        "organization": "University of Florida",
+        "country": "USA"
+      },
+      {
+        "name": "Sanjay Kumar",
+        "position": "Professor",
+        "organization": "MDI Gurgaon",
+        "country": "INDIA"
+      },
+      {
+        "name": "Sanjeev Swami",
+        "position": "Professor and HOD",
+        "organization": "Dayalbagh University",
+        "country": "INDIA"
+      },
+      {
+        "name": "Satyaveer Singh Chauhan",
+        "position": "Associate Professor, Department of Supply Chain and Business Technology Management",
+        "organization": "Concordia University",
+        "country": "CANADA"
+      },
+      {
+        "name": "Shashi Kumar",
+        "position": "Assistant Vice President",
+        "organization": "Nomura Securities",
+        "country": "INDIA"
+      },
+      {
+        "name": "Subodh Kumar",
+        "position": "Associate Professor",
+        "organization": "Mays Business School, TAMU",
+        "country": "USA"
+      },
+      {
+        "name": "Sunil Gupta",
+        "position": "Consultant",
+        "organization": "Independent Business unit of BFSI (Banking, Financial Services, Insurance) for ITC Infotech India Ltd (I3L)"
+      },
+      {
+        "name": "Surya Prakash Singh",
+        "position": "Faculty of Department of Management Studies",
+        "organization": "IIT Delhi",
+        "country": "INDIA"
+      },
+      {
+        "name": "Upendra Kumar Earle",
+        "position": "Assistant Vice President",
+        "organization": "HSBC",
+        "country": "INDIA"
+      },
+      {
+        "name": "Ranganath",
+        "position": "Program Manager, Quality Assurance, UBS Account",
+        "organization": "IBM"
+      }
+    ]
+  }
+}
